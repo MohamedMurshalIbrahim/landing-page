@@ -40,9 +40,8 @@ A responsive landing page for a travel and tourism company built with HTML and C
 1. Open `index.html` in any modern web browser
 2. Or serve using a local server:
    ```bash
-   python -m http.server 8000
+   start index.html
    ```
-   Then visit `http://localhost:8000`
 
 ## Browser Support
 
